@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[CalculatorBrain pushOperand:]:CalculatorBrain.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(Class)*(self-&gt;_programStack-&gt;isa)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
